@@ -1,6 +1,8 @@
 /*
-The below program describes how to parse the command line arugments in GoLang. The package - OS - is used in parsing the command
-line arguments.
+File:	HelloWorld.go
+Author:	Arjun Arippa
+Desc:	The below program describes how to parse the command line arugments in GoLang. The package - OS - is used in parsing the command
+		line arguments.
 
  */
 package main

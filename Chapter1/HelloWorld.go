@@ -1,3 +1,8 @@
+/*
+File:	HelloWorld.go
+Author:	Arjun Arippa
+ */
+
 package main
 
 import "fmt"
